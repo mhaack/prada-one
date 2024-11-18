@@ -20,13 +20,13 @@
       {
         "component": "text",
         "name": "enrichment-categories",
-        "label": "Enrichment Categorie"
+        "label": "Enrichment Categories"
       },
       {
         "component": "text",
         "name": "enrichment-products",
         "label": "Enrichment Products"
-      }
+      },
       {
         "component": "text",
         "name": "enrichment-positions",

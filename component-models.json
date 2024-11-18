@@ -1262,9 +1262,15 @@
       {
         "component": "reference",
         "valueType": "string",
-        "name": "card_image",
+        "name": "image",
         "label": "Image",
         "multi": false
+      },
+      {
+        "component": "text",
+        "name": "imageAlt",
+        "label": "Image Alt",
+        "valueType": "string"
       },
       {
         "component": "text",

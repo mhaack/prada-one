@@ -33,7 +33,8 @@
       "commerce-cart",
       "commerce-checkout",
       "commerce-order-confirmation",
-      "columnsjo"
+      "columnsjo",
+      "category-cards"
     ]
   },
   {
@@ -91,5 +92,9 @@
   {
     "id": "icon-block",
     "components": ["icon-block-item"]
+  },
+  {
+    "id": "category-cards",
+    "components": ["category-card"]
   }
 ]
